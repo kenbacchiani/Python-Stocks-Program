@@ -14,3 +14,4 @@ Stock program to get familiar with python programming language. Uses alphavantag
   
 ## Alpha Vantage API link
   https://www.alphavantage.co/
+ 
