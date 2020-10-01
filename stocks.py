@@ -1,3 +1,6 @@
+#Author:Ken Bacchiani
+#Python Stocks Program
+
 import pandas as pd
 from alpha_vantage.timeseries import TimeSeries
 import time
