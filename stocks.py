@@ -5,7 +5,7 @@ import pandas as pd
 from alpha_vantage.timeseries import TimeSeries
 import time
 
-api_key = 'ZOQFPG1T7XNIEG4S'
+api_key = 'APIKEY'
 
 ts = TimeSeries(key=api_key, output_format = 'pandas')
 run = True
